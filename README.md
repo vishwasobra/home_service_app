@@ -3,7 +3,8 @@
 Assignment for OyeLabs by Vishwas Chaudhary.
 
 Screenshots(https://drive.google.com/file/d/1QO_aGGjquXVRdxyW5YHHw2pFkGKvpxwo/view?usp=sharing)
-Video()
+
+Video(https://drive.google.com/file/d/1j0Qaw7VJ9Gu0Lv18_FEFLk5gX_pJ2ft-/view?usp=sharing)
 
 ## Getting Started
 
