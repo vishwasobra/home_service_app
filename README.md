@@ -1,6 +1,8 @@
 # home_service_app
 
 Assignment for OyeLabs by Vishwas Chaudhary
+Screenshots(https://drive.google.com/file/d/1QO_aGGjquXVRdxyW5YHHw2pFkGKvpxwo/view?usp=sharing)
+Video()
 
 ## Getting Started
 
